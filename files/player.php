@@ -82,8 +82,10 @@ echo '<tr><td>Kicks:</td><td>'. $data['kicks'].'</td></tr>';
 echo '<tr><td>Time Elapsed:</td><td>'. $data['totalTime'] / 60 .' min</td></tr>';
 echo '<tr><td>Gamemode:</td><td>'. $data['gameMode'].'</td></tr>';
 echo '<tr><td>World:</td><td>'. $data['world'].'</td></tr>';
+if ($pexon == 'true'): 
 if ($data['groups'] == '["'.$defaultgroup.'"]'): 
 echo '<tr><td>Group:</td><td><span style="color:#00D5FF;">Player</span></span></td></tr>';
+endif;
 endif;
 }
 endwhile; else: echo "<strong style='color: red;'>Cannot connect to database: [Error $db->connect_errno] $db->connect_error</strong>"; endif; 
