@@ -18,7 +18,7 @@
 			Online Minecraft Statistics<br />
 			<br />
 			Features: 1. Complete Player stats: Name, Is Onine, Joins, Player Kills, Mob Kills, Money, Deaths, and more<br />
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; 2. PermissionsEX group<br />
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; 2. PermissionsEX /optionally group<br />
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 3. McMMO Stats /optionally<br />
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<br />
 			<br />
@@ -26,7 +26,7 @@
 			Demo Player Info:&nbsp; <a href="http://iposgp.eu/stats/player.php?player=SPQR_Brutus">http://iposgp.eu/stats/player.php?player=SPQR_Brutus</a><br />
 			<br />
 			Plugins needed:&nbsp; <a href="http://dev.bukkit.org/bukkit-plugins/inquisitor/files/">Inquisitor</a><br />
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; <a href="http://dev.bukkit.org/bukkit-plugins/permissionsex/files/">PermissionsEX</a><br />
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; <a href="http://dev.bukkit.org/bukkit-plugins/permissionsex/files/">PermissionsEX</a> /optionally<br />
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="http://dev.bukkit.org/bukkit-plugins/mcmmo/files/">McMMO</a> /optionally</p>
 <h3>
 			Config:</h3>
