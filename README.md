@@ -1,11 +1,15 @@
 <html>
-	<body>
+	<head>
 
-			&nbsp;
+	</head>
+	<body>
+		<p>
+			&nbsp;</p>
 		<h1>
 			WebStats</h1>
-			======================================<br />
-			&nbsp;
+		<p>
+			=========================================<br />
+			&nbsp;</p>
 		<h2>
 			Advanced WebStats</h2>
 		<br />
