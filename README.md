@@ -39,6 +39,3 @@
 			$mcmmoon = &#39;false&#39; //on or off McMMO stats
 			$pexon = &#39;false&#39; //on or off PEX stats
 			$defaultgroup = &#39;Hr&aacute;č&#39; //Default group oh yout Pex
-			
-	</body>
-</html>
