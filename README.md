@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>In progress</title>
+		<title></title>
 	</head>
 	<body>
 		<p>
