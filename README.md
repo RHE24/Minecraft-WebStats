@@ -3,13 +3,13 @@
 		<title></title>
 	</head>
 	<body>
-		<p>
-			&nbsp;</p>
+
+			&nbsp;
 		<h1>
 			WebStats</h1>
-		<p>
-			========<br />
-			&nbsp;</p>
+
+			=======================================<br />
+			&nbsp;
 		<h2>
 			Advanced WebStats</h2>
 		<br />
