@@ -6,12 +6,12 @@
 		<p>
 			&nbsp;</p>
 		<h1>
-			WebStats</h1>
+			Minecraft WebStats</h1>
 		<p>
 			==============================<br />
 			&nbsp;</p>
 		<h2>
-			Advanced WebStats</h2>
+			Advanced Minecraft WebStats</h2>
 		<br />
 		<br />
 		<p>
