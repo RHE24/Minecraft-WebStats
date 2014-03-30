@@ -1,6 +1,6 @@
 <html>
 	<head>
-
+		<title></title>
 	</head>
 	<body>
 		<p>
@@ -8,7 +8,7 @@
 		<h1>
 			WebStats</h1>
 		<p>
-			=========================================<br />
+			========<br />
 			&nbsp;</p>
 		<h2>
 			Advanced WebStats</h2>
