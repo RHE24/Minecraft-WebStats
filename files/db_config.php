@@ -5,4 +5,5 @@
 	$dbDatabase = '';   //Database name
 	
 	$mcmmoon = 'false' //on or off McMMO stats
+	$defaultgroup = '' //Default group oh yout Pex
 ?>

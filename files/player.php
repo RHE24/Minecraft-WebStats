@@ -82,7 +82,7 @@ echo '<tr><td>Kicks:</td><td>'. $data['kicks'].'</td></tr>';
 echo '<tr><td>Time Elapsed:</td><td>'. $data['totalTime'] / 60 .' min</td></tr>';
 echo '<tr><td>Gamemode:</td><td>'. $data['gameMode'].'</td></tr>';
 echo '<tr><td>World:</td><td>'. $data['world'].'</td></tr>';
-if ($data['groups'] == '["Hrac"]'): 
+if ($data['groups'] == '["'.$defaultgroup.'"]'): 
 echo '<tr><td>Group:</td><td><span style="color:#00D5FF;">Player</span></span></td></tr>';
 endif;
 }
