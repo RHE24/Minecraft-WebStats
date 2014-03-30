@@ -30,13 +30,13 @@
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="http://dev.bukkit.org/bukkit-plugins/mcmmo/files/">McMMO</a> /optionally</p>
 <h3>
 			Config:</h3>
-		<p>
-			$dbHost = &#39;localhost&#39;; //Database IP<br />
-			$dbUser = &#39;root&#39;; //User name of database<br />
-			$dbPw = &#39;123456&#39;; //Password of database<br />
-			$dbDatabase = &#39;minecraft_stats&#39;; //Database name<br />
-			<br />
-			$mcmmoon = &#39;false&#39; //on or off McMMO stats<br />
-			$pexon = &#39;false&#39; //on or off PEX stats<br />
-			$defaultgroup = &#39;Hr&aacute;č&#39; //Default group oh yout Pex</p></body>
+
+			$dbHost = &#39;localhost&#39;; //Database IP
+			$dbUser = &#39;root&#39;; //User name of database
+			$dbPw = &#39;123456&#39;; //Password of database
+			$dbDatabase = &#39;minecraft_stats&#39;; //Database name
+
+			$mcmmoon = &#39;false&#39; //on or off McMMO stats
+			$pexon = &#39;false&#39; //on or off PEX stats
+			$defaultgroup = &#39;Hr&aacute;č&#39; //Default group oh yout Pex</body>
 </html>
