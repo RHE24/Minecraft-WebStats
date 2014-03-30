@@ -25,7 +25,8 @@
 			Demo:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <a href="http://iposgp.eu/stats/index.php">http://iposgp.eu/stats</a><br />
 			Demo Player Info:&nbsp; <a href="http://iposgp.eu/stats/player.php?player=SPQR_Brutus">http://iposgp.eu/stats/player.php?player=SPQR_Brutus</a><br />
 			<br />
-			Plugins needed:&nbsp; Inquisitor<br />
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PermissionsEX<br />
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; McMMO /optionally</p></body>
+			Plugins needed:&nbsp; <a href="http://dev.bukkit.org/bukkit-plugins/inquisitor/files/">Inquisitor</a><br />
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://dev.bukkit.org/bukkit-plugins/permissionsex/files/">PermissionsEX</a><br />
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <a href="http://dev.bukkit.org/bukkit-plugins/mcmmo/files/">McMMO</a> /optionally</p>
+	</body>
 </html>
