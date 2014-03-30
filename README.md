@@ -18,7 +18,7 @@
 			Online Minecraft Statistics<br />
 			<br />
 			Features: 1. Complete Player stats: Name, Is Onine, Joins, Player Kills, Mob Kills, Money, Deaths, and more<br />
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; 2. PermissionsEX /optionally group<br />
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; 2. PermissionsEX group /optionally<br />
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 3. McMMO Stats /optionally<br />
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<br />
 			<br />
